@@ -79,7 +79,7 @@ export default defineExamples([
     link: 'https://puppetblog.top/',
     name: 'Puppet',
     desc: '时而记录下bug，时而记录一些工具教程',
-    avatar: 'https://www.picgo.net/image/image.WOdbodhttps://www.picgo.net/image/avator.WOdzZk',
+    avatar: 'https://www.picgo.net/image/avator.WOdzZk',
     nickname: 'PuppetMaster'
   },
 ])
