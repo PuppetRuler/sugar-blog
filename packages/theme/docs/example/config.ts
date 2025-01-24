@@ -74,4 +74,12 @@ export default defineExamples([
     avatar: 'https://cdn.upyun.sugarat.top/test/sugar/566d2ea782106c5b88991acf77526244',
     nickname: 'SuZhelevel6'
   },
+  {
+    cover: 'https://www.picgo.net/image/image.WOdbod',
+    link: 'https://puppetblog.top/',
+    name: 'Puppet',
+    desc: '时而记录下bug，时而记录一些工具教程',
+    avatar: 'https://www.picgo.net/image/image.WOdbodhttps://www.picgo.net/image/avator.WOdzZk',
+    nickname: 'PuppetMaster'
+  },
 ])
